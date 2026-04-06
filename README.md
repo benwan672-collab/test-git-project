@@ -9,3 +9,9 @@
 ```bash
 git clone https://github.com/你的帳號/test-git-project.git
 cd test-git-project
+
+## 如何安裝與執行（中文版）
+
+```bash
+git clone https://github.com/benwan672-collab/test-git-project.git
+cd test-git-project
