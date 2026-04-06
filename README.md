@@ -1,23 +1,11 @@
-# 這是測試專案
+# test-git-project
 
-這是練習 commit message 的第二行 - by Yuki 的小海綿寶寶練習用
+這是 Yuki 的小海綿練習 Git 的專案，用來學習現代團隊開發流程。
 
-## 今天練習同時修改兩個檔案
-by Yuki 的小海綿～繼續努力學習 git！
+## 專案介紹
+練習 Git 基礎操作、Branch 管理、Merge Conflict 解決，以及 Pull Request 協作流程。
 
-## 團隊規範
-所有 commit message 請用英文開頭
-
-## 如何貢獻
-歡迎提出 Pull Request！由 Yuki 的小海綿負責維護～
-
-## 如何貢獻（Contributing）
-
-1. Fork 本專案
-2. 建立 feature branch (`git checkout -b feature/xxx`)
-3. Commit 你的修改 (`git commit -m 'Add some feature'`)
-4. Push 到 branch (`git push origin feature/xxx`)
-5. 開一個 Pull Request
-
-感謝每一位貢獻者！由 Yuki 的小海綿負責維護～
-
+## 如何安裝與執行
+```bash
+git clone https://github.com/你的帳號/test-git-project.git
+cd test-git-project
