@@ -29,3 +29,11 @@ Thumbs.db
 # 特別保護 .env 裡面的密碼
 
 # 今天練習同時 commit 多個檔案
+
+# 額外優化規則
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
